@@ -1,0 +1,2 @@
+# therightsw.com
+Githubpages
